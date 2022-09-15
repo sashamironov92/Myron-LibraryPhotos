@@ -1,0 +1,28 @@
+PODS:
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - SDWebImage (5.12.6):
+    - SDWebImage/Core (= 5.12.6)
+  - SDWebImage/Core (5.12.6)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - SDWebImage (= 5.12.6)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - SDWebImage
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Charts: 354f86803d11d9c35de280587fef50d1af063978
+  SDWebImage: a47aea9e3d8816015db4e523daff50cfd294499d
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: 45484a6bd5e3ba7027cdc5238cf2aaa84a25f1d2
+
+COCOAPODS: 1.11.3
